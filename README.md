@@ -1,6 +1,5 @@
 ### 
 <img   src="https://i.imgur.com/812ojsg.png" >
-<br/>
 <p align="center">
 <img   src="https://media.giphy.com/media/aNEDbjEGn9y6CjgIJg/giphy.gif" align="center">
  </p>
