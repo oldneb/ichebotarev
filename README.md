@@ -1,6 +1,6 @@
 ### 
 
-    <img height= 800px src="https://media.giphy.com/media/LQiuNoMoM4iFWaJS9X/giphy.gif">
+    <img src="https://media.giphy.com/media/LQiuNoMoM4iFWaJS9X/giphy.gif">
 
 
 <!--
