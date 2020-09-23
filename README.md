@@ -1,4 +1,6 @@
-### Hi there 👋
+### 
+ <img src="https://media.giphy.com/media/LQiuNoMoM4iFWaJS9X/giphy.gif">
+
 
 <!--
 **ichebotarev/ichebotarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
