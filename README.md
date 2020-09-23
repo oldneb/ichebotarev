@@ -2,12 +2,11 @@
 <img   src="https://i.imgur.com/dAaqCzV.png" >
 <br/>
 <br/>
-<br/>
-<br/>
 <p align="center">
 <img   src="https://media.giphy.com/media/aNEDbjEGn9y6CjgIJg/giphy.gif" align="center">
  </p>
-
+<br/>
+<br/>
  
  
   <br>
