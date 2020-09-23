@@ -1,6 +1,6 @@
 ### 
-<img src="https://media.giphy.com/media/LQiuNoMoM4iFWaJS9X/giphy.gif"><img align="right" src="https://media.giphy.com/media/aNEDbjEGn9y6CjgIJg/giphy.gif">
-
+<img src="https://media.giphy.com/media/LQiuNoMoM4iFWaJS9X/giphy.gif" style="max-width:80%;"><img align="right" src="https://media.giphy.com/media/aNEDbjEGn9y6CjgIJg/giphy.gif" style="max-width:80%;" >
+ 
 
 <!--
 **ichebotarev/ichebotarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
