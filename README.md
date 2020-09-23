@@ -1,11 +1,13 @@
 ### 
+<img   src="https://i.ibb.co/VQ0mtGR/git.png" >
+<br/>
+<br/>
+<br/>
+<br/>
+<p align="center">
+<img   src="https://media.giphy.com/media/aNEDbjEGn9y6CjgIJg/giphy.gif" align="center">
+ </p>
 
-<img  align="left" src="https://i.ibb.co/VQ0mtGR/git.png" >
-
-<img align="center" src="https://media.giphy.com/media/aNEDbjEGn9y6CjgIJg/giphy.gif">
-<br>
-<br>
-<br>
  
  
   <br>
@@ -39,7 +41,7 @@ I am very interested in philosophy, linguistics, art (particularly the intersect
 <img width="333.75px" height="187.5px" src="https://media.giphy.com/media/LQiuNoMoM4iFWaJS9X/giphy.gif" ><img align="right" img width="333.75px" height="187.5px" src="https://media.giphy.com/media/aNEDbjEGn9y6CjgIJg/giphy.gif">
 
 Here are some ideas to get you started:
-
+ 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
