@@ -1,5 +1,5 @@
 ### 
-<img style="transform:scale(10);" src="https://media.giphy.com/media/LQiuNoMoM4iFWaJS9X/giphy.gif">
+<img src="https://media.giphy.com/media/LQiuNoMoM4iFWaJS9X/giphy.gif">
 
 
 <!--
