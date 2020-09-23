@@ -1,7 +1,7 @@
 ### 
 
 
-<img align="right" img width="1780px" height="1000px" src="https://media.giphy.com/media/aNEDbjEGn9y6CjgIJg/giphy.gif">
+<img align="right" img width="890px" height="500px" src="https://media.giphy.com/media/aNEDbjEGn9y6CjgIJg/giphy.gif">
  
 
 <!--
