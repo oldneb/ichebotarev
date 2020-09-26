@@ -11,7 +11,7 @@
 Currently Based in San Francisco, I am a sound and graphic designer currently focusing on strengthening my web development skills.
 I was born in Moscow, Russia and moved to the United States when I was 5 (So no thick accent, although I can fake one really well). <br>
 <br>
-I am very interested in philosophy, linguistics, art (particularly the intersection of studio, video and sound art), technology and movies. I also binge comedy podcasts pretty frequently. 
+I am very interested in technology, philosophy, linguistics, art (particularly the intersection of studio, video and sound art), and movies. I also binge comedy podcasts pretty frequently. 
  
 <br><br><br><br>
 
