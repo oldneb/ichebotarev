@@ -21,9 +21,11 @@ I am very interested in technology, philosophy, linguistics, art and movies. I a
 **Here are Screens of my Work**
  
 <br>
+<img src="https://i.imgur.com/rSODjjU.jpg">
+<img src="https://i.imgur.com/QWHqHFi.jpg">
 <img src="https://i.imgur.com/kquN97c.jpg">
 <img src="https://i.imgur.com/Zuf8X00.jpeg">
-<img src="https://i.imgur.com/rSODjjU.jpg">
+
 
 
 <br><br>
