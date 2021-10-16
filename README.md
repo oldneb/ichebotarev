@@ -1,14 +1,14 @@
 ### 
 
-<p align="center">
+<!-- <p align="center">
 <img   src="https://media.giphy.com/media/aNEDbjEGn9y6CjgIJg/giphy.gif" align="center">
  </p>
 <br/>
 <br/>
 <br/>
 <br/>
-<br/>
-Currently Based in San Francisco, Born in Moscow, Russia. 
+<br/> -->
+ 
  
 <br><br><br><br>
 
